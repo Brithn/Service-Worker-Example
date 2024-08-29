@@ -1,0 +1,16 @@
+{
+    "name": "service-worker",
+    "short_name": "service-worker",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3b9ae5",
+    "description": "Página de actividad personal",
+    "icons": [
+        {
+            "src": "icon-info.png",
+            "type": "image/png",
+            "sizes": "50x50"
+        }
+    ]
+}
